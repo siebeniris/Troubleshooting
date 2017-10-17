@@ -1,0 +1,5 @@
+# install pinyin package
+
+sudo apt-get install ibus-pinyin 
+
+#then configure in language support
